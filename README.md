@@ -1,12 +1,13 @@
 
 
-### Welcome to My Git-world   
+### Welcome to My Git-world 
+### <div align="center">I'm Zeshan Ali , a Machine Learning Expert, Running a Software agency in Pakistan 👨‍💻 working hard to make a change in new Coders Learning  🚀</div> 
+
+
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/Zeshan-Ali/Zeshan-Ali/blob/main/linked.jfif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Zeshan Ali , a Machine Learning Expert, Running a Software agency in Pakistan 👨‍💻 working hard to make a change in new Coders  🚀</div>  
   
 
 - 🔭 I’m currently working on Cancer Detection using tongue images classification  
