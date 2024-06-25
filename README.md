@@ -10,8 +10,9 @@
   
 
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/Zeshan-Ali/count.svg?" alt="Profile Views">
+<div style="border: 2px solid #1F618D; border-radius: 10px; padding: 20px; background: #D6EAF8; color: #1B4F72; text-align: center; width: fit-content; margin: auto;">
+  <h2>Profile Views</h2>
+  <img src="https://profile-counter.glitch.me/Zeshan-Ali/count.svg?" alt="Profile Views">
 </div>
  
 
