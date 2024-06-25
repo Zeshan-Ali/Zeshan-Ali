@@ -8,7 +8,9 @@
 <img src="https://github.com/Zeshan-Ali/Zeshan-Ali/blob/main/linked.jfif" align="center" style="width: 100%" />
 </div>  
   
- <div align="center">
+
+
+<div align="center">
 <img src="https://profile-counter.glitch.me/Zeshan-Ali/count.svg?" alt="Profile Views">
 </div>
  
