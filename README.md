@@ -8,7 +8,10 @@
 <img src="https://github.com/Zeshan-Ali/Zeshan-Ali/blob/main/linked.jfif" align="center" style="width: 100%" />
 </div>  
   
-
+<div style="text-align: center;">
+  <h1>Zeshan Ali</h1>
+  <p>Data Scientist</p>
+</div>
 
 <div style="border: 2px solid #1F618D; border-radius: 10px; padding: 20px; background: #D6EAF8; color: #1B4F72; text-align: center; width: fit-content; margin: auto;">
   <h2>Profile Views</h2>
